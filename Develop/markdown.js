@@ -18,7 +18,7 @@ class mdclass {
 ${ansr.description}
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
