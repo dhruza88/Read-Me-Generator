@@ -25,7 +25,7 @@ ${ansr.description}
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [How To Contribute](#howToContribute)
+- [Contributions](#Contributions)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -46,7 +46,7 @@ ${this.createLicenseBadge(ansr.license)}
 ## Features
 ${ansr.features}
 
-## How to Contribute
+## Contributions
 ${ansr.contribute}
 
 ## Tests

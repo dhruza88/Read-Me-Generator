@@ -12,16 +12,16 @@ using the node.js installation i used various packages to dynamically create a R
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [How To Contribute](#howToContribute)
+- [Contributions](#Contributions)
 - [Tests](#tests)
 - [Questions](#questions)
 
 
 ## Installation
-inquirer,fs, and my own custom class file
+inquirer, fs, and my own custom class
 
 ## Usage
-using inquirer to be able to prompt the user for the data. Then using fs to dynamically create the file using the inputted data, formatted based on the custom class that i defined
+using inquirer to be able to prompt the user for the data. Then using fs to dynamically create the file using the inputted data from user. Formatted by the custom class i had defined
 
 ## Credits
 stackoverflow.com, node.js, google
@@ -31,9 +31,9 @@ stackoverflow.com, node.js, google
 
 
 ## Features
-dynamically creating a new readme off every users submission
+dynamically creating a new readme from every users submission
 
-## How to Contribute
+## Contributions
 n/a
 
 ## Tests

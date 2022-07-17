@@ -54,7 +54,7 @@ const questions = [
     },
 
     {
-        message: "How to Contribute:",
+        message: "Contributions:",
         type: "input",
         name: "contribute"
     },
