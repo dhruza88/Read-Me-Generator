@@ -40,7 +40,11 @@ const questions = [
         message: "Licenses:",
         type: "list",
         name: "license",
-        choices: [`MIT`, `ISC`, `GNUPLv3`]
+        choices: [`MIT`, `ISC`, `GNUPLv3`],
+        filter(val) {
+
+            return val.toLowerCase();
+        }
     },
 
     {

@@ -9,6 +9,7 @@ class mdclass {
             }
             return badges[license]
     }
+
     static geneReadme(ansr) {
         return `
         # ${ansr.title}
@@ -16,7 +17,6 @@ class mdclass {
 ## Description
 ${ansr.description}
 
-${this.createLicenseBadge(ansr.license)}
 
 ## Table of Contents (Optional)
 
@@ -40,7 +40,8 @@ ${ansr.usage}
 ${ansr.credits}
 
 ## License
-${ansr.license}
+${this.createLicenseBadge(ansr.license)}
+
 
 ## Features
 ${ansr.features}
@@ -52,7 +53,7 @@ ${ansr.contribute}
 ${ansr.tests}
 
 ## Questions
-${ansr.github} <br />
+[${ansr.github}](www.github.com/${ansr.github}) <br />
 ${ansr.email}
 
 `

@@ -1,8 +1,8 @@
 
-        # test
+        # README.md Generator
 
 ## Description
-test
+using the node.js installation we use various different packages to dynamically create a README.md file with mutiple sections and inputs filled in by questions asked through terminal
 
 
 ## Table of Contents (Optional)
@@ -18,27 +18,28 @@ test
 
 
 ## Installation
-test
+inquirer, fs, and my own class file
 
 ## Usage
-test
+using inquirer to be able to prompt the user for data back. Then using the fs to dynamically create a new file based off the class file i had established
 
 ## Credits
-test
+stackoverflow, node.js, google
 
 ## License
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Features
-test
+using the prompt feature from inquirer i was able to dynamically create all the sections using the inputed data
 
 ## How to Contribute
-test
+n/a
 
 ## Tests
-test
+enter data to build your own
 
 ## Questions
-test <br />
-test
+www.github.com/dhruza88 <br />
+davidhruza@gmail.com
 
