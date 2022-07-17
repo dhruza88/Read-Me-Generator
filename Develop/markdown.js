@@ -53,7 +53,7 @@ ${ansr.contribute}
 ${ansr.tests}
 
 ## Questions
-[${ansr.github}](www.github.com/${ansr.github}) <br />
+[www.github.com/${ansr.github}](www.github.com/${ansr.github}) <br />
 ${ansr.email}
 
 `
