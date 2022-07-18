@@ -56,7 +56,7 @@ const questions = [
     {
         message: "Contributions:",
         type: "input",
-        name: "contribute"
+        name: "contributions"
     },
 
     {
