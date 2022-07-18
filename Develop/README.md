@@ -18,6 +18,8 @@ using the node.js installation, I used various packages to dynamically create a 
 
 
 ## Installation
+npm i inquirer
+npm i fs
 inquirer, fs, my own custom class
 
 ## Usage
