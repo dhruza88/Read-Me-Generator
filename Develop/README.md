@@ -49,5 +49,4 @@ davidhruza@gmail.com
 
 Link Below to video download of preview:
 
-https://github.com/dhruza88/Read-Me-Generator/blob/main/Develop/assets/MINGW64__c_Users_david_code_challenges_Read-Me-Generator_Develop%202022-07-17%2010-21-27.mp4
-
+[index.js - Read-Me-Generator - Visual Studio Code 2022-07-19 14-57-45.zip](https://github.com/dhruza88/Read-Me-Generator/files/9145014/index.js.-.Read-Me-Generator.-.Visual.Studio.Code.2022-07-19.14-57-45.zip)
